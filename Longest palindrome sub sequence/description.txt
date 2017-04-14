@@ -1,0 +1,2 @@
+This program takes a string as an input and returns the length of the longest pallindrome sub sequence.
+It also prints the pallindrome with the help of lcs.
