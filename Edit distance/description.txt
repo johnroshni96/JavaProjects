@@ -1,0 +1,6 @@
+This program calculates the edit distance.
+It prints out the matrix.
+Here the weights are:
+1 for deletion and insrtion
+2 for substitution
+0 if there is no change
